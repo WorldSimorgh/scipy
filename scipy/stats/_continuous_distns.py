@@ -3836,7 +3836,7 @@ class invweibull_gen(rv_continuous):
     References
     ----------
     F.R.S. de Gusmao, E.M.M Ortega and G.M. Cordeiro, "The generalized inverse
-    Weibull distribution", Stat. Papers, vol. 52, pp. 591-619, 2011.
+    Weibull distribution", Stat. papers, vol. 52, pp. 591-619, 2011.
 
     %(example)s
 
